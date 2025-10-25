@@ -1,0 +1,12 @@
+# Pasta de dependências do Node (gigante e desnecessária)
+node_modules/
+
+# Arquivo de segredos e senhas (MUITO IMPORTANTE)
+.env
+
+# Arquivos de certificado SSL (MUITO IMPORTANTE)
+key.pem
+cert.pem
+
+# Logs de erro (se existirem)
+*.log
